@@ -25,6 +25,11 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 125px;
+  height: auto;
+  text-align: center;
+  font-size: large;
+  font-weight: bolder;
 }
 .heart-framed-couple .i-center {
   width: 100%;
@@ -48,7 +53,15 @@ body{
 .i-right {
   left: 500px;
 }
-
+.date-div{
+ 
+  display: flex;
+  justify-content: space-evenly;
+  align-items: baseline;
+  align-content: flex-end;
+  flex-wrap: nowrap;
+  margin-top: 50px;
+}
 .get-married {
 	text-align: center;
 }
