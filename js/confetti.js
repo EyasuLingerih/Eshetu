@@ -11,6 +11,10 @@ window.confettify = function() {
           ["#2bebbc", "#05798a"],
           ["#ffd200", "#b06c00"]
       ];
+      $(document).on('click', function(){
+        document.getElementById("my_audio").play();
+        
+    });
 
       function Vector2(_x, _y) {
           this.x = _x, this.y = _y;
