@@ -369,14 +369,14 @@ h1, h3, .mystery {
     margin: 10px 20px;
   }
   h1.enough {
-    font-size: 3em;
+    font-size: 1.8em;
     font-weight: bolder;
   }
   h3 {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 3em;
+    font-size: 1.8em;
     font-weight: bolder;
     
   }
@@ -390,7 +390,7 @@ h4 {
   font-size: 2em;
 }
 .button{
-  background-color: #;
+  background-color: #D5B087;
 
   border-radius: 15%;
 }
