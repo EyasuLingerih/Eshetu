@@ -81,6 +81,9 @@ body{
   .heart-framed-couple .i-center {
     width: 75%;
   }
+  .enough{
+    font-size: small;
+  }
   .i-left, .i-right {
     display: inline;
 	  width: 50px;
