@@ -79,11 +79,11 @@ body{
 
 @media (min-width: 300px) {
   .heart-framed-couple .i-center {
-    width: 50%;
+    width: 75%;
   }
   .i-left, .i-right {
     display: inline;
-	  width: 90px;
+	  width: 50px;
   }
   .get-married {
     margin-top: -25px;
