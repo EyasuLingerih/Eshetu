@@ -77,13 +77,13 @@ body{
 	font-size: 0.75em;
 }
 
-@media (min-width: 200px) {
+@media (min-width: 300px) {
   .heart-framed-couple .i-center {
-    width: 25%;
+    width: 50%;
   }
   .i-left, .i-right {
     display: inline;
-	  width: 50px;
+	  width: 90px;
   }
   .get-married {
     margin-top: -25px;
