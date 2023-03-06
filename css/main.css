@@ -77,7 +77,11 @@ body{
 	text-decoration: underline;
 	font-size: 0.75em;
 }
-
+.read-our-story text-center{
+display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
 @media (min-width: 300px) {
   .heart-framed-couple .i-center {
     width: 75%;
