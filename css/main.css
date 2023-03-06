@@ -405,6 +405,9 @@ h4 {
 	color: lime;
 	background-color:transparent;
   width: 90px;
+  text-decoration: underline;
+  text-decoration-color: chartreuse;
+  white-space: nowrap;
 }
 
 
