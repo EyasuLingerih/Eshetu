@@ -11,7 +11,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #0069d996;
+  background-color: #0069d9;
 }
 #confetti {
 	height: 100%;
@@ -400,8 +400,8 @@ h4 {
 	font-size: 1.3rem;
 	line-height: 1.5;
 	border-radius: .8rem;
-	color: black;
-	background-color: lime;
+	color: lime;
+	background-color: #0069d9;
   width: 90px;
 }
 
