@@ -82,6 +82,7 @@ body{
 display: flex;
     align-items: center;
     justify-content: space-around;
+    margin-bottom: 30px;
 }
 @media (min-width: 300px) {
   .heart-framed-couple .i-center {
@@ -412,13 +413,16 @@ h4 {
   text-decoration: none;
   text-decoration-color: black;
   white-space: nowrap;
-  width: auto;
+  width: 130px;
   background-color: #958F8A;
   border: none;
   border-end-start-radius: 10px;
   border-end-end-radius: 10px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
+}
+.wbu{
+  width: 130px;
 }
 
 .bootstrap-btn:hover{
