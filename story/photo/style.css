@@ -23,7 +23,7 @@ h1{
 	margin: 5% auto 0;
 	text-transform: uppercase;
 	font-family: 'Anaheim', sans-serif;
-	font-size: 4em;
+	font-size: 2.5em;
 	font-weight: 400;
 	text-shadow: 0 1px white, 0 2px black;
 }
@@ -57,6 +57,19 @@ h1{
 	overflow: hidden;
 	border: solid 5px black;
 }
+#full {
+	display: none;
+	position: absolute;
+	z-index: 9999;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background-size: contain;
+	background-repeat: no-repeat no-repeat;
+	background-position: center center;
+	background-color: black;
+  }
 #carousel figure:nth-child(1){transform: rotateY(0deg) translateZ(288px);}
 #carousel figure:nth-child(2) { transform: rotateY(40deg) translateZ(288px);}
 #carousel figure:nth-child(3) { transform: rotateY(80deg) translateZ(288px);}
