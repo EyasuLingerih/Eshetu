@@ -28,6 +28,7 @@ h1{
 	text-shadow: 0 1px white, 0 2px black;
 }
 .container{
+	top: 100px;
 	margin: 4% auto;
 	width: 210px;
 	height: 140px;
@@ -53,7 +54,7 @@ h1{
 	height: 116px;
 	left: 10px;
 	top: 10px;
-	background: black;
+	background: teal;
 	overflow: hidden;
 	border: solid 5px black;
 }
